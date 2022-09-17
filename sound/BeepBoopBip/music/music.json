@@ -1,0 +1,17 @@
+[
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": false,
+        "files": [
+          {
+            "file": "music/darkdaysahead.ogg",
+            "volume": 70
+          }
+        ]
+      }
+    ]
+  }
+]
