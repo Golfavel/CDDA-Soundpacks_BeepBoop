@@ -1,0 +1,66 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "NPC_m",
+    "volume": 100,
+    "files": [
+      "speech/speech_pattern1",
+      "speech/speech_pattern2",
+      "speech/speech_pattern3",
+      "speech/speech_pattern4",
+      "speech/speech_pattern5",
+      "speech/speech_pattern6",
+      "speech/speech_pattern7",
+      "speech/speech_pattern8"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "NPC_f",
+    "volume": 100,
+    "files": [
+      "speech/speech_pattern1",
+      "speech/speech_pattern2",
+      "speech/speech_pattern3",
+      "speech/speech_pattern4",
+      "speech/speech_pattern5",
+      "speech/speech_pattern6",
+      "speech/speech_pattern7",
+      "speech/speech_pattern8"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "NPC_m_loud",
+    "volume": 100,
+    "files": [
+      "speech/speech_pattern1",
+      "speech/speech_pattern2",
+      "speech/speech_pattern3",
+      "speech/speech_pattern4",
+      "speech/speech_pattern5",
+      "speech/speech_pattern6",
+      "speech/speech_pattern7",
+      "speech/speech_pattern8"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "NPC_f_loud",
+    "volume": 100,
+    "files": [
+      "speech/speech_pattern1",
+      "speech/speech_pattern2",
+      "speech/speech_pattern3",
+      "speech/speech_pattern4",
+      "speech/speech_pattern5",
+      "speech/speech_pattern6",
+      "speech/speech_pattern7",
+      "speech/speech_pattern8"
+    ]
+  }
+]
