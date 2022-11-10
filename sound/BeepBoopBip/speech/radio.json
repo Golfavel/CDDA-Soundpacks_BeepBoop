@@ -1,0 +1,20 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "radio",
+    "variant": "static",
+    "volume": 10,
+    "files": [ "speech/static.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "radio",
+    "variant": "inaudible_chatter",
+    "volume": 10,
+    "files": [
+      "speech/static_pattern1.ogg",
+      "speech/static_pattern2.ogg",
+      "speech/static_pattern3.ogg"
+    ]
+  }
+]
