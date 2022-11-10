@@ -5,14 +5,14 @@
     "variant": "NPC_m",
     "volume": 100,
     "files": [
-      "speech/speech_pattern1",
-      "speech/speech_pattern2",
-      "speech/speech_pattern3",
-      "speech/speech_pattern4",
-      "speech/speech_pattern5",
-      "speech/speech_pattern6",
-      "speech/speech_pattern7",
-      "speech/speech_pattern8"
+      "speech/speech_pattern1.ogg",
+      "speech/speech_pattern2.ogg",
+      "speech/speech_pattern3.ogg",
+      "speech/speech_pattern4.ogg",
+      "speech/speech_pattern5.ogg",
+      "speech/speech_pattern6.ogg",
+      "speech/speech_pattern7.ogg",
+      "speech/speech_pattern8.ogg"
     ]
   },
   {
@@ -21,14 +21,14 @@
     "variant": "NPC_f",
     "volume": 100,
     "files": [
-      "speech/speech_pattern1",
-      "speech/speech_pattern2",
-      "speech/speech_pattern3",
-      "speech/speech_pattern4",
-      "speech/speech_pattern5",
-      "speech/speech_pattern6",
-      "speech/speech_pattern7",
-      "speech/speech_pattern8"
+      "speech/speech_pattern1.ogg",
+      "speech/speech_pattern2.ogg",
+      "speech/speech_pattern3.ogg",
+      "speech/speech_pattern4.ogg",
+      "speech/speech_pattern5.ogg",
+      "speech/speech_pattern6.ogg",
+      "speech/speech_pattern7.ogg",
+      "speech/speech_pattern8.ogg"
     ]
   },
   {
@@ -37,14 +37,14 @@
     "variant": "NPC_m_loud",
     "volume": 100,
     "files": [
-      "speech/speech_pattern1",
-      "speech/speech_pattern2",
-      "speech/speech_pattern3",
-      "speech/speech_pattern4",
-      "speech/speech_pattern5",
-      "speech/speech_pattern6",
-      "speech/speech_pattern7",
-      "speech/speech_pattern8"
+      "speech/speech_pattern1.ogg",
+      "speech/speech_pattern2.ogg",
+      "speech/speech_pattern3.ogg",
+      "speech/speech_pattern4.ogg",
+      "speech/speech_pattern5.ogg",
+      "speech/speech_pattern6.ogg",
+      "speech/speech_pattern7.ogg",
+      "speech/speech_pattern8.ogg"
     ]
   },
   {
@@ -53,14 +53,14 @@
     "variant": "NPC_f_loud",
     "volume": 100,
     "files": [
-      "speech/speech_pattern1",
-      "speech/speech_pattern2",
-      "speech/speech_pattern3",
-      "speech/speech_pattern4",
-      "speech/speech_pattern5",
-      "speech/speech_pattern6",
-      "speech/speech_pattern7",
-      "speech/speech_pattern8"
+      "speech/speech_pattern1.ogg",
+      "speech/speech_pattern2.ogg",
+      "speech/speech_pattern3.ogg",
+      "speech/speech_pattern4.ogg",
+      "speech/speech_pattern5.ogg",
+      "speech/speech_pattern6.ogg",
+      "speech/speech_pattern7.ogg",
+      "speech/speech_pattern8.ogg"
     ]
   }
 ]
