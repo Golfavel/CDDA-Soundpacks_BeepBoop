@@ -1,0 +1,114 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "indoors_rain",
+    "volume": 100,
+    "files": [ "environment/indoors_rain.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLEAR",
+    "volume": 100,
+    "files": [ "environment/weather_wind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SUNNY",
+    "volume": 100,
+    "files": [ "environment/weather_wind.ogg" ]
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLOUDY",
+    "volume": 100,
+    "files": [ "environment/weather_wind.ogg" ],
+    "//": "i would like to separate this from sunny/clear"
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_LIGHT_DRIZZLE",
+    "volume": 10,
+    "files": [ "environment/weather_rainstorm.ogg" ],
+    "//": "currently, rain sounds vary by volume; would like to change that to vary 'densities' instead/as well"
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_DRIZZLE",
+    "volume": 50,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_RAINY",
+    "volume": 75,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_RAINSTORM",
+    "volume": 100,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_THUNDER",
+    "volume": 100,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_LIGHTNING",
+    "volume": 100,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SNOW",
+    "volume": 50,
+    "files": [ "environment/weather_strongwind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_FLURRIES",
+    "volume": 75,
+    "files": [ "environment/weather_strongwind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SNOWSTORM",
+    "volume": 100,
+    "files": [ "environment/weather_strongwind.ogg" ]
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_ACID_DRIZZLE",
+    "volume": 50,
+    "files": [ "environment/weather_rainstorm.ogg" ],
+    "//": "temporary while acid sound gets work"
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_ACID_RAIN",
+    "volume": 100,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  }
+]
