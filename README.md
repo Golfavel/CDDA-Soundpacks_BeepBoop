@@ -1,32 +1,15 @@
-# CC-Sounds
-A continuation of the `CO.AG soundpack` initiated by **SkyBreach**.
-This version aims to provide a quality soundpack using CC0 or CC-BY ressources with proper attribution.
+# BeepBoopBip
+A simple, original, and specially made soundpack created using simple waveform generation.
 
 ## Download
-Get the latest release from there: [[release]](https://github.com/Fris0uman/CDDA-Soundpacks/releases)
+Currently unavailable; you can instead either clone the repository or selectively download `sound/BeepBoopBip/`
 
 ## Installation
-- Get sound pack from the **Download** link above
-  - `CC-Sounds.zip `: Music and effects
-  - `CO.AG-music-only.zip`: Music only
-  - `CC-Sounds-sfx-only.zip`: effect only
-- Unzip in `data\sound` inside the game folder
-- Chose `CC sounds` as soundpack in the game: `Options > General > (line 43) Choose soundpack`
+- Move/copy/link the directory to your C:DDA installation's sound directory (either in `cdda/sound/` or `cdda/data/sound/`)
+- Chose `BeepBoopBip` as the soundpack in-game: `Options > General > (line 43) Choose soundpack`
 - Close and restart the game
-- Done
-
-## Music
-All music tracks were composed and produced by **CO.AG**, and used with their [permission](CO.AG_authorisation.txt).
-
-- [CO.AG Facebook](https://www.facebook.com/COAG-Music-146339785905623/)
-- [CO.AG YouTube Channel](https://www.youtube.com/channel/UCcavSftXHgxLBWwLDm_bNvA)
-- [CO.AG Patreon](https://www.patreon.com/user?u=3550597)
-
-## SFX
-SFX are sourced from [freesound.org](https://freesound.org/)
-
-You can find proper attribution for every file in the `credits.md` in each sound folder.
 
 ## Contributing
-Contributions are welcome, see the [documentation](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/SOUNDPACKS.md)
-for more information on how soundpacks work.
+Contributions are welcome, see the [documentation](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/SOUNDPACKS.md) for more information on how soundpacks work.
+
+Sounds are primarily created using Bfxr [bfxr.net](https://www.bfxr.net); other tools are welcome as long as their results remain in the spirit of the project.
