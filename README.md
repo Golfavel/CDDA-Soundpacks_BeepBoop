@@ -12,4 +12,4 @@ Currently unavailable; you can instead either clone the repository or selectivel
 ## Contributing
 Contributions are welcome, see the [documentation](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/SOUNDPACKS.md) for more information on how soundpacks work.
 
-Sounds are primarily created using Bfxr [bfxr.net](https://www.bfxr.net); other tools are welcome as long as their results remain in the spirit of the project.
+Sounds are primarily created using [Bfxr](https://www.bfxr.net); other tools are welcome as long as their results remain in the spirit of the project.
