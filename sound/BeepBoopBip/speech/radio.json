@@ -4,7 +4,11 @@
     "id": "radio",
     "variant": "static",
     "volume": 10,
-    "files": [ "speech/static.ogg" ]
+    "files": [ 
+      "speech/static1.ogg",
+      "speech/static2.ogg",
+      "speech/static3.ogg"
+    ]
   },
   {
     "type": "sound_effect",
