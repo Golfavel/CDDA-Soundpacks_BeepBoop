@@ -15,8 +15,7 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "brass_eject",
-    "//": "this is needed to prevent playing the generic 'fire_gun' sound twice",
-    "volume": 0,
-    "files": [ "firearms/gunshot1.ogg" ]
+    "volume": 100,
+    "files": [ "firearms/brass_eject.ogg" ]
   }
 ]
