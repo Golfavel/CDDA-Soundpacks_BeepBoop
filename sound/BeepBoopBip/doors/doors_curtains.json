@@ -125,6 +125,20 @@
     "volume": 100,
     "files": [ "doors/curtain_open.ogg" ]
   },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_metal_grate_window_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_metal_grate_window_with_curtain_noglass",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
   
   {
     "type": "sound_effect",
@@ -249,6 +263,20 @@
     "type": "sound_effect",
     "id": "close_door",
     "variant": "t_tempered_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_metal_grate_window_with_curtain_open",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_metal_grate_window_with_curtain_open_noglass",
     "volume": 100,
     "files": [ "doors/curtain_close.ogg" ]
   }
