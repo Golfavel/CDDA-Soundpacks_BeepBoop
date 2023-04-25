@@ -23,6 +23,13 @@
   {
     "type": "sound_effect",
     "id": "open_door",
+    "variant": "t_door_grass_curtain_c",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
     "variant": "f_canvas_door",
     "volume": 100,
     "files": [ "doors/curtain_open.ogg" ]
@@ -34,6 +41,105 @@
     "volume": 100,
     "files": [ "doors/curtain_open.ogg" ]
   },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_window_bars_curtains",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_plastic_window_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_single_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_reinforced_single_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_double_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_reinforced_double_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_triple_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_reinforced_triple_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_quadruple_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_reinforced_quadruple_pane_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_reinforced_plastic_window_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_tempered_glass_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_metal_grate_window_with_curtain",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_metal_grate_window_with_curtain_noglass",
+    "volume": 100,
+    "files": [ "doors/curtain_open.ogg" ]
+  },
+  
   {
     "type": "sound_effect",
     "id": "close_door",
@@ -73,6 +179,104 @@
     "type": "sound_effect",
     "id": "close_door",
     "variant": "f_large_canvas_door_o",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_window_bars_domestic",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_plastic_window_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_single_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_reinforced_single_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_double_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_reinforced_double_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_triple_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_reinforced_triple_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_quadruple_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_reinforced_quadruple_double_pane_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_reinforced_plastic_window_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_tempered_glass_with_curtain_open_window_closed",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_metal_grate_window_with_curtain_open",
+    "volume": 100,
+    "files": [ "doors/curtain_close.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_metal_grate_window_with_curtain_open_noglass",
     "volume": 100,
     "files": [ "doors/curtain_close.ogg" ]
   }
