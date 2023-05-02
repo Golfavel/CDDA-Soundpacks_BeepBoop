@@ -19,5 +19,12 @@
     "variant": "engine_clanking_fail",
     "volume": 50,
     "files": [ "engines/engine_clanking_fail.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle",
+    "variant": "engine_stutter_fail",
+    "volume": 50,
+    "files": [ "engines/engine_stutter_fail.ogg" ]
   }
 ]
