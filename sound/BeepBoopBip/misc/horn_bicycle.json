@@ -1,0 +1,13 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "misc",
+    "variant": "horn_bicycle",
+    "volume": 50,
+    "files": [
+      "engines/horn_low1.ogg",
+      "engines/horn_low2.ogg",
+      "engines/horn_low3.ogg"
+    ]
+  }
+]
