@@ -4,20 +4,32 @@
     "id": "vehicle",
     "variant": "horn_loud",
     "volume": 100,
-    "files": [ "engines/horn_loud.ogg" ]
+    "files": [
+      "engines/horn_loud1.ogg",
+      "engines/horn_loud2.ogg",
+      "engines/horn_loud3.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "vehicle",
     "variant": "horn_medium",
     "volume": 100,
-    "files": [ "engines/horn_medium.ogg" ]
+    "files": [
+        "engines/horn_medium1.ogg",
+        "engines/horn_medium2.ogg",
+        "engines/horn_medium3.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "vehicle",
     "variant": "horn_low",
     "volume": 100,
-    "files": [ "engines/horn_low.ogg" ]
+    "files": [ 
+      "engines/horn_low1.ogg",
+      "engines/horn_low2.ogg",
+      "engines/horn_low3.ogg"
+    ]
   }
 ]
